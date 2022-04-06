@@ -31,7 +31,7 @@ CI/CD Pipeline for Dockerized Applications Using AWS/Jenkins/Kubernetes. Please 
 
 ## Jenkins
 
-![JenkinsPipeline](https://user-images.githubusercontent.com/66190700/162049943-b517e266-079e-4ccd-9933-a43ccc466f0f.PNG)
+![image](https://user-images.githubusercontent.com/66190700/162051139-98b58295-ea0a-4229-9ee3-73fd73e8c430.png)
 
 ## SonarQube
 
