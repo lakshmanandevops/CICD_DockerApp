@@ -1,0 +1,15 @@
+replicaCount: 3
+revisionHistory: 5
+
+image:
+  repository: <<ecr_repo>>
+  tag: pythonflaskapp-version
+  port: 5000
+  cpurequest: 250m
+  memoryrequest: 256Mi
+  cpulimit: 500m
+  memorylimit: 512Mi
+
+service:
+  type: ClusterIP
+  port: 80
