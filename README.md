@@ -27,35 +27,44 @@ CI/CD Pipeline for Dockerized Applications Using AWS/Jenkins/Kubernetes. Please 
 - Readiness/Liveness probes and Pod CPU/Memory Requests and Limits set.
 - Ingress enabled in EKS so multiple applications can be hosted and routed seamlessly in EKS
 
-Screen Captures
+# Screen Captures
 
-Jenkins
+## Jenkins
 
 ![JenkinsPipeline](https://user-images.githubusercontent.com/66190700/162049943-b517e266-079e-4ccd-9933-a43ccc466f0f.PNG)
 
-
-
-SonarQube
+## SonarQube
 
 ![SonarQube Results](https://user-images.githubusercontent.com/66190700/162048792-d9f6fb6a-8a16-4804-b3ce-e312f024a6ce.PNG)
 
-ECR Repo
+## ECR Repo
 
 ![ECR Repo](https://user-images.githubusercontent.com/66190700/162049118-0542b182-f72a-4b82-9b54-5b0a7d32820c.PNG)
 
-EKS Cluster
+## EKS Cluster
 
 ![EKS](https://user-images.githubusercontent.com/66190700/162049373-781004bb-ac70-4f51-acb0-c30d4b28b209.png)
 
-Application Exposed Via Ingress
+## Application Exposed Via Ingress
 
-HomePage
+## HomePage
 
 ![Homepage](https://user-images.githubusercontent.com/66190700/162049519-9a0da4ef-e336-4780-a14e-76b7100574e4.png)
 
-HealthCheck Page
+## HealthCheck Page
 
 ![Health Check Page](https://user-images.githubusercontent.com/66190700/162049582-344f7f14-8e1c-4e7b-86f5-e28e5bbee16c.png)
+
+## Email and Slack Notifications
+
+![image](https://user-images.githubusercontent.com/66190700/162050482-8f2fd29b-8c71-4395-9503-7cedcfbeed08.png)
+
+![image](https://user-images.githubusercontent.com/66190700/162050512-1f2548bc-82bb-4b6a-b440-4d277aeaf08f.png)
+
+![image](https://user-images.githubusercontent.com/66190700/162050533-b2a246e3-f8df-4e85-a1bf-d377d62f2b34.png)
+
+
+
 
 
 
