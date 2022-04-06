@@ -31,7 +31,9 @@ Screen Captures
 
 Jenkins
 
-![CI_CD PipelineBO](https://user-images.githubusercontent.com/66190700/162048674-efd27be1-b746-4817-b399-88bcf2c6ab39.PNG)
+![JenkinsPipeline](https://user-images.githubusercontent.com/66190700/162049943-b517e266-079e-4ccd-9933-a43ccc466f0f.PNG)
+
+
 
 SonarQube
 
