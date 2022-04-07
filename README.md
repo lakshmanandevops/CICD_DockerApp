@@ -45,6 +45,11 @@ CI/CD Pipeline for Dockerized Applications Using AWS/Jenkins/Kubernetes. Please 
 
 ![EKS](https://user-images.githubusercontent.com/66190700/162049373-781004bb-ac70-4f51-acb0-c30d4b28b209.png)
 
+## Pod Autoscaling
+
+![HPA](https://user-images.githubusercontent.com/66190700/162111493-6fb3d313-a90e-4adc-87df-8f60c59c5903.png)
+
+
 ## Application Exposed Via Ingress
 
 ## HomePage
