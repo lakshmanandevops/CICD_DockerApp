@@ -26,6 +26,7 @@ CI/CD Pipeline for Dockerized Applications Using AWS/Jenkins/Kubernetes. Please 
 - Zero-Downtime Deployment with EKS
 - Readiness/Liveness probes and Pod CPU/Memory Requests and Limits set.
 - Ingress enabled in EKS so multiple applications can be hosted and routed seamlessly in EKS
+- Pod Autoscaling is Setup with Horizontal Pod Autoscaler (HPA) with Scaling Criteria of CPU-Percentage > 50%
 
 # Screen Captures
 
